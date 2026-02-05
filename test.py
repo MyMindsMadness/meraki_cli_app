@@ -1,1 +1,0 @@
-print ("Meraki CLI App Test")
